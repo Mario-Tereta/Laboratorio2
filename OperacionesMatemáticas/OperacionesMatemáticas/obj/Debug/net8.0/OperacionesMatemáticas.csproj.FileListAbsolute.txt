@@ -1,0 +1,15 @@
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesMatemáticas\OperacionesMatemáticas\bin\Debug\net8.0\OperacionesMatemáticas.exe
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesMatemáticas\OperacionesMatemáticas\bin\Debug\net8.0\OperacionesMatemáticas.deps.json
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesMatemáticas\OperacionesMatemáticas\bin\Debug\net8.0\OperacionesMatemáticas.runtimeconfig.json
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesMatemáticas\OperacionesMatemáticas\bin\Debug\net8.0\OperacionesMatemáticas.dll
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesMatemáticas\OperacionesMatemáticas\bin\Debug\net8.0\OperacionesMatemáticas.pdb
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesMatemáticas\OperacionesMatemáticas\obj\Debug\net8.0\OperacionesMatemáticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesMatemáticas\OperacionesMatemáticas\obj\Debug\net8.0\OperacionesMatemáticas.AssemblyInfoInputs.cache
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesMatemáticas\OperacionesMatemáticas\obj\Debug\net8.0\OperacionesMatemáticas.AssemblyInfo.cs
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesMatemáticas\OperacionesMatemáticas\obj\Debug\net8.0\OperacionesMatemáticas.csproj.CoreCompileInputs.cache
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesMatemáticas\OperacionesMatemáticas\obj\Debug\net8.0\OperacionesMatemáticas.sourcelink.json
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesMatemáticas\OperacionesMatemáticas\obj\Debug\net8.0\OperacionesMatemáticas.dll
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesMatemáticas\OperacionesMatemáticas\obj\Debug\net8.0\refint\OperacionesMatemáticas.dll
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesMatemáticas\OperacionesMatemáticas\obj\Debug\net8.0\OperacionesMatemáticas.pdb
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesMatemáticas\OperacionesMatemáticas\obj\Debug\net8.0\OperacionesMatemáticas.genruntimeconfig.cache
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesMatemáticas\OperacionesMatemáticas\obj\Debug\net8.0\ref\OperacionesMatemáticas.dll

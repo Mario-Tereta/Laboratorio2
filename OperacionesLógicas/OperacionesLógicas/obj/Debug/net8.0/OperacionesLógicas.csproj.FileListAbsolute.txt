@@ -1,0 +1,15 @@
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesLógicas\OperacionesLógicas\bin\Debug\net8.0\OperacionesLógicas.exe
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesLógicas\OperacionesLógicas\bin\Debug\net8.0\OperacionesLógicas.deps.json
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesLógicas\OperacionesLógicas\bin\Debug\net8.0\OperacionesLógicas.runtimeconfig.json
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesLógicas\OperacionesLógicas\bin\Debug\net8.0\OperacionesLógicas.dll
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesLógicas\OperacionesLógicas\bin\Debug\net8.0\OperacionesLógicas.pdb
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesLógicas\OperacionesLógicas\obj\Debug\net8.0\OperacionesLógicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesLógicas\OperacionesLógicas\obj\Debug\net8.0\OperacionesLógicas.AssemblyInfoInputs.cache
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesLógicas\OperacionesLógicas\obj\Debug\net8.0\OperacionesLógicas.AssemblyInfo.cs
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesLógicas\OperacionesLógicas\obj\Debug\net8.0\OperacionesLógicas.csproj.CoreCompileInputs.cache
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesLógicas\OperacionesLógicas\obj\Debug\net8.0\OperacionesLógicas.sourcelink.json
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesLógicas\OperacionesLógicas\obj\Debug\net8.0\OperacionesLógicas.dll
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesLógicas\OperacionesLógicas\obj\Debug\net8.0\refint\OperacionesLógicas.dll
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesLógicas\OperacionesLógicas\obj\Debug\net8.0\OperacionesLógicas.pdb
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesLógicas\OperacionesLógicas\obj\Debug\net8.0\OperacionesLógicas.genruntimeconfig.cache
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\OperacionesLógicas\OperacionesLógicas\obj\Debug\net8.0\ref\OperacionesLógicas.dll
