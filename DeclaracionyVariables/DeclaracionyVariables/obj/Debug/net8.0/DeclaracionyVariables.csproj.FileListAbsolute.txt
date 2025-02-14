@@ -1,0 +1,14 @@
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\DeclaracionyVariables\DeclaracionyVariables\bin\Debug\net8.0\DeclaracionyVariables.exe
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\DeclaracionyVariables\DeclaracionyVariables\bin\Debug\net8.0\DeclaracionyVariables.deps.json
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\DeclaracionyVariables\DeclaracionyVariables\bin\Debug\net8.0\DeclaracionyVariables.runtimeconfig.json
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\DeclaracionyVariables\DeclaracionyVariables\bin\Debug\net8.0\DeclaracionyVariables.dll
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\DeclaracionyVariables\DeclaracionyVariables\bin\Debug\net8.0\DeclaracionyVariables.pdb
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\DeclaracionyVariables\DeclaracionyVariables\obj\Debug\net8.0\DeclaracionyVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\DeclaracionyVariables\DeclaracionyVariables\obj\Debug\net8.0\DeclaracionyVariables.AssemblyInfoInputs.cache
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\DeclaracionyVariables\DeclaracionyVariables\obj\Debug\net8.0\DeclaracionyVariables.AssemblyInfo.cs
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\DeclaracionyVariables\DeclaracionyVariables\obj\Debug\net8.0\DeclaracionyVariables.csproj.CoreCompileInputs.cache
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\DeclaracionyVariables\DeclaracionyVariables\obj\Debug\net8.0\DeclaracionyVariables.dll
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\DeclaracionyVariables\DeclaracionyVariables\obj\Debug\net8.0\refint\DeclaracionyVariables.dll
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\DeclaracionyVariables\DeclaracionyVariables\obj\Debug\net8.0\DeclaracionyVariables.pdb
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\DeclaracionyVariables\DeclaracionyVariables\obj\Debug\net8.0\DeclaracionyVariables.genruntimeconfig.cache
+C:\Users\Tereta\Documents\Universidad\Programación I\Laboratorio2\DeclaracionyVariables\DeclaracionyVariables\obj\Debug\net8.0\ref\DeclaracionyVariables.dll
